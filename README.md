@@ -1,5 +1,3 @@
-# IA626-Project
-
 Greetings,
 
 I have done a Cryptocurrency Data Analysis here. And using other dataset, which have effect on the cryptocurrency price, I have found the correlation between the 
