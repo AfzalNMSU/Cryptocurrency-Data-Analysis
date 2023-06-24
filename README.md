@@ -33,7 +33,7 @@ You can run the code in Google Colab. If you want to run the code in your machin
      b. Install the Python packages using the anaconda prompt according to the provided "version_requirements.txt" file.
 
 Dataset:  <br>
-The dataset contains two csv files where information are provided of cryptocurrencies. The files are "top_coins.csv" and bitcoin_dataset.csv/" and.
+The dataset contains two csv files where information are provided of cryptocurrencies. The files are "top_coins.csv" and bitcoin_dataset.csv".
 
 Usage: <br>
      a. Download "source_code.ipynb" or, "source_code.py" file and also download the data. <br>
