@@ -14,7 +14,7 @@ Potsdam, New York 13699 <br>
 Source Code Organization: <br>
     Cryptocurrency_Analysis.ipynb - This Python file has the necessary code for automatically analyzing the Cryptocurrenties and the factors that have effect on Bitcoin.
 
-top_coins.csv/: Information of op Cryptocureencies
+top_coins.csv/: Information of top Cryptocureencies
 
 bitcoin_dataset.csv/: Bitcoin information
 
