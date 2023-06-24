@@ -22,7 +22,7 @@ bitcoin_price.csv/: Bitcoin price
 
 input/: Information of other specific cryptocurrencies to analyze the factors that have effets of the price
 
-version_requirements.txt/: Verrsion required to run the code.
+version_requirements.txt/: Verrsions of python packages required to run the code.
 
 I have developped the code in google colab. Here, the following picture gives an overview of my code that how I have organised everthing in eight different steps.
 
