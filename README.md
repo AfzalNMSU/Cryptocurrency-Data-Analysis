@@ -1,10 +1,7 @@
 # Title: Cryptocurrency Data Analysis and Vizaliation
 
 Brief summary: <br>
-This folder contains code and datasets download link for testing and analyzing New York city taxi trips. The specific technique considered describe the geographic range of the taxi trips, average computed trip distance, and vizualize the results in graphs, plots, and indicate on the New York city map.
-
-I have done a Cryptocurrency Data Analysis here. And using other dataset, which have effect on the cryptocurrency price, I have found the correlation between the 
-Bitcoin Price and other factors like BTC price, BTC hash rate, BTC_difficulty etc. 
+This folder contains code and data files for testing and analyzing Cryptocurrencies. The specific technique considered describe that which factors have effect on the cryptocurrency price and vizualize the results in graphs, and plots. I have found the correlation between the Bitcoin Price and other factors like BTC price, BTC hash rate, BTC_difficulty etc. 
 
 Team: <br>
 Afzal Hossain <br>
@@ -31,15 +28,15 @@ Disclaimer:  <br>
 There are no guarantees made about the accuracy or safety of this source code. This project was created for research purposes. The authors have attempted to produce code that is both accurate, efficient, and safe, but only limited testing has been performed. The authors of this code shall not be held accountable for any damage caused by using this code or any derivative works.
 
 Platform and Installation: <br>
-Python is needed to run the code. <br>
+You can run the code in Google Colab. If you want to run the code in your machine Python or, Anaconda is needed. <br>
      a. Download Anaconda (https://docs.anaconda.com/anaconda/install/) or, Python 3.9.13 <br>
      b. Install the Python packages using the anaconda prompt according to the provided "version_requirements.txt" file.
 
 Dataset:  <br>
-The dataset contains two csv files where information are provided of taxi trips in New york city. The files are uploaded to drive and the link is is provided in the "dataset_drive_link.txt/" file.
+The dataset contains two csv files where information are provided of cryptocurrencies. The files are "top_coins.csv" and bitcoin_dataset.csv/" and.
 
 Usage: <br>
-     a. Download "source_code.ipynb" file and also download the data from the given drive link. <br>
+     a. Download "source_code.ipynb" or, "source_code.py" file and also download the data. <br>
      b. Run the python file with the csv data file within the same folder location.
 
 Commands: <br>
