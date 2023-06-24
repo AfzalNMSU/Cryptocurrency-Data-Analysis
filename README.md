@@ -32,7 +32,7 @@ Disclaimer:  <br>
 There are no guarantees made about the accuracy or safety of this source code. This project was created for research purposes. The authors have attempted to produce code that is both accurate, efficient, and safe, but only limited testing has been performed. The authors of this code shall not be held accountable for any damage caused by using this code or any derivative works.
 
 Platform and Installation: <br>
-You can run the code in Google Colab. If you want to run the code in your machine Python or, Anaconda is needed. <br>
+You can run the code in Google Colab. If you want to run the code in your machine, Python/Anaconda is needed. <br>
      a. Download Anaconda (https://docs.anaconda.com/anaconda/install/) or, Python 3.9.13 <br>
      b. Install the Python packages using the anaconda prompt according to the provided "version_requirements.txt" file.
 
