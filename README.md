@@ -50,7 +50,7 @@ CPU information: <br>
 		Processor- Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz  3.79GHz <br>
 		RAM- 16.0 GB
 
-# Analyzed results:  The followings provide information about the data and analyzed results from the dataset of Cryptocureencies
+# Analyzed results:  The followings provide information about the code and analyzed results from the dataset of Cryptocureencies
 
 ## STEP 1: Importing all the necessary libraries
 I have imported all the necessary libraries at the beginning which we need to import to run the code. For example, I have used the matplotlib and plotly libraies of python to plot and visualze the information properly.
