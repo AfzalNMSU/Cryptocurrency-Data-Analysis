@@ -41,7 +41,7 @@ The dataset contains some csv files where information are provided of cryptocurr
 
 Usage: <br>
      a. Download "Cryptocurrency_Analysis.ipynb" or, "Cryptocurrency_Analysis.py" file and also download the data. <br>
-     b. Run the python file with the csv data file within the same folder location.
+     b. Run the python file with the csv data files within the same folder location.
 
 Commands: <br>
 Cryptocurrency_Analysis.py
