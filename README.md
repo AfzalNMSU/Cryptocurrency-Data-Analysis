@@ -14,9 +14,13 @@ Potsdam, New York 13699 <br>
 Source Code Organization: <br>
     Cryptocurrency_Analysis.ipynb / Cryptocurrency_Analysis.py - This Python file has the necessary code for automatically analyzing the Cryptocurrenties and the factors that have effect on Bitcoin.
 
-map_NYC.png/: Sample image of New York city
+top_coins.csv/: Information of op Cryptocureencies
 
-dataset_drive_link.txt/: This file contains the drive link of the required data.
+bitcoin_dataset.csv/: Bitcoin information
+
+bitcoin_price.csv/: Bitcoin price
+
+input/: Information of other specific cryptocurrencies to analyze the factors that have effets of the price
 
 version_requirements.txt/: Verrsion required to run the code.
 
@@ -33,7 +37,7 @@ You can run the code in Google Colab. If you want to run the code in your machin
      b. Install the Python packages using the anaconda prompt according to the provided "version_requirements.txt" file.
 
 Dataset:  <br>
-The dataset contains two csv files where information are provided of cryptocurrencies. The files are "top_coins.csv" and bitcoin_dataset.csv".
+The dataset contains some csv files where information are provided of cryptocurrencies. The files are "top_coins.csv", bitcoin_price.csv, and bitcoin_dataset.csv".
 
 Usage: <br>
      a. Download "Cryptocurrency_Analysis.ipynb" or, "Cryptocurrency_Analysis.py" file and also download the data. <br>
