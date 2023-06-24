@@ -3,6 +3,9 @@
 Brief summary: <br>
 This folder contains code and datasets download link for testing and analyzing New York city taxi trips. The specific technique considered describe the geographic range of the taxi trips, average computed trip distance, and vizualize the results in graphs, plots, and indicate on the New York city map.
 
+I have done a Cryptocurrency Data Analysis here. And using other dataset, which have effect on the cryptocurrency price, I have found the correlation between the 
+Bitcoin Price and other factors like BTC price, BTC hash rate, BTC_difficulty etc. 
+
 Team: <br>
 Afzal Hossain <br>
 Department of Electrical and Computer Engineering <br>
@@ -19,6 +22,10 @@ map_NYC.png/: Sample image of New York city
 dataset_drive_link.txt/: This file contains the drive link of the required data.
 
 version_requirements.txt/: Verrsion required to run the code.
+
+I have developped the code in google colab. Here, the following picture gives an overview of my code that how I have organised everthing in eight different steps.
+
+![Capture](https://user-images.githubusercontent.com/83153124/207223979-32f94ce9-246d-423f-aa7f-321754aa049b.PNG)
 
 Disclaimer:  <br>
 There are no guarantees made about the accuracy or safety of this source code. This project was created for research purposes. The authors have attempted to produce code that is both accurate, efficient, and safe, but only limited testing has been performed. The authors of this code shall not be held accountable for any damage caused by using this code or any derivative works.
@@ -43,12 +50,6 @@ CPU information: <br>
 		RAM- 16.0 GB
 
 # Analyzed results:  The followings provide information about the data and analyzed results from the dataset of Cryptocureencies
-
-
-I have done a Cryptocurrency Data Analysis here. And using other dataset, which have effect on the cryptocurrency price, I have found the correlation between the 
-Bitcoin Price and other factors like BTC price, BTC hash rate, BTC_difficulty etc. I have developped the code in google colab. Here, the following picture gives an overview of my code that how I have organised everthing in eight different steps.
-
-![Capture](https://user-images.githubusercontent.com/83153124/207223979-32f94ce9-246d-423f-aa7f-321754aa049b.PNG)
 
 ## STEP 1: Importing all the necessary libraries
 I have imported all the necessary libraries at the beginning which we need to import to run the code. For example, I have used the matplotlib and plotly libraies of python to plot and visualze the information properly.
