@@ -12,7 +12,7 @@ Clarkson university <br>
 Potsdam, New York 13699 <br>
 
 Source Code Organization: <br>
-    source_code.ipynb - This Python file has the necessary code for automatically testing the taxi trip data and vizualizez the results.
+    Cryptocurrency_Analysis.ipynb / Cryptocurrency_Analysis.py - This Python file has the necessary code for automatically analyzing the Cryptocurrenties and the factors that have effect on Bitcoin.
 
 map_NYC.png/: Sample image of New York city
 
@@ -36,11 +36,11 @@ Dataset:  <br>
 The dataset contains two csv files where information are provided of cryptocurrencies. The files are "top_coins.csv" and bitcoin_dataset.csv".
 
 Usage: <br>
-     a. Download "source_code.ipynb" or, "source_code.py" file and also download the data. <br>
+     a. Download "Cryptocurrency_Analysis.ipynb" or, "Cryptocurrency_Analysis.py" file and also download the data. <br>
      b. Run the python file with the csv data file within the same folder location.
 
 Commands: <br>
-source_code.py
+Cryptocurrency_Analysis.py
 
 CPU information: <br>
 		Processor- Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz  3.79GHz <br>
