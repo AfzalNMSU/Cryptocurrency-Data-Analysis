@@ -1,4 +1,49 @@
-Greetings,
+# Title: Cryptocurrency Data Analysis and Vizaliation
+
+Brief summary: <br>
+This folder contains code and datasets download link for testing and analyzing New York city taxi trips. The specific technique considered describe the geographic range of the taxi trips, average computed trip distance, and vizualize the results in graphs, plots, and indicate on the New York city map.
+
+Team: <br>
+Afzal Hossain <br>
+Department of Electrical and Computer Engineering <br>
+Dr. Tyler Conlon <br>
+Data Science Program <br>
+Clarkson university <br>
+Potsdam, New York 13699 <br>
+
+Source Code Organization: <br>
+    source_code.ipynb - This Python file has the necessary code for automatically testing the taxi trip data and vizualizez the results.
+
+map_NYC.png/: Sample image of New York city
+
+dataset_drive_link.txt/: This file contains the drive link of the required data.
+
+version_requirements.txt/: Verrsion required to run the code.
+
+Disclaimer:  <br>
+There are no guarantees made about the accuracy or safety of this source code. This project was created for research purposes. The authors have attempted to produce code that is both accurate, efficient, and safe, but only limited testing has been performed. The authors of this code shall not be held accountable for any damage caused by using this code or any derivative works.
+
+Platform and Installation: <br>
+Python is needed to run the code. <br>
+     a. Download Anaconda (https://docs.anaconda.com/anaconda/install/) or, Python 3.9.13 <br>
+     b. Install the Python packages using the anaconda prompt according to the provided "version_requirements.txt" file.
+
+Dataset:  <br>
+The dataset contains two csv files where information are provided of taxi trips in New york city. The files are uploaded to drive and the link is is provided in the "dataset_drive_link.txt/" file.
+
+Usage: <br>
+     a. Download "source_code.ipynb" file and also download the data from the given drive link. <br>
+     b. Run the python file with the csv data file within the same folder location.
+
+Commands: <br>
+source_code.py
+
+CPU information: <br>
+		Processor- Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz  3.79GHz <br>
+		RAM- 16.0 GB
+
+# Analyzed results:  The followings provide information about the data and analyzed results from the dataset of Cryptocureencies
+
 
 I have done a Cryptocurrency Data Analysis here. And using other dataset, which have effect on the cryptocurrency price, I have found the correlation between the 
 Bitcoin Price and other factors like BTC price, BTC hash rate, BTC_difficulty etc. I have developped the code in google colab. Here, the following picture gives an overview of my code that how I have organised everthing in eight different steps.
